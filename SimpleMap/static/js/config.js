@@ -1,1 +1,2 @@
-const API_KEY = 'https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=pk.eyJ1IjoiZWJza2lpIiwiYSI6ImNrNnExemZhMTFzaXAzZHF0OW16ZGUzdnYifQ.VbZegUxBcCOvn5apft7ktg';
+const API_KEY = 'pk.eyJ1IjoiZWJza2lpIiwiYSI6ImNrNnExemZhMTFzaXAzZHF0OW16ZGUzdnYifQ.VbZegUxBcCOvn5apft7ktg';
+
