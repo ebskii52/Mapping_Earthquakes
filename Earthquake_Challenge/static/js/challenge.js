@@ -31,7 +31,7 @@ let baseMaps = {
 let map = L.map('mapid', {
     center: [39.5, -98.5],
     zoom: 3,
-    layers: [satelliteStreets]
+    layers: [street]
 })
 
 // Create the earthquake layer for our map.
